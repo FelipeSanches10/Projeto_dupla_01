@@ -1,5 +1,3 @@
-## Link do projeto até o momento:
-
-
+## Link do projeto
 
 https://main--fullstackios.netlify.app/
